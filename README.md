@@ -10,9 +10,11 @@ Team Members:
 
 (3) Uttam Choudhary
 
-Input files: 
-[Large (20 MB)](https://www.dropbox.com/s/njnhdq3stw8x5uk/%5Bdaiict%5D_cache_miss_large_phase2.csv?dl=0)
-[Medium (4.7 MB)](https://www.dropbox.com/s/0ruh2xr2wjkgxa9/%5Bdaiict%5D_cache_miss_medium_phase2.csv?dl=0)
+Input files(Download):
+ 
+[Large (20 MB)](https://www.dropbox.com/s/njnhdq3stw8x5uk/%5Bdaiict%5D_cache_miss_large_phase2.csv?dl=1)
+
+[Medium (4.7 MB)](https://www.dropbox.com/s/0ruh2xr2wjkgxa9/%5Bdaiict%5D_cache_miss_medium_phase2.csv?dl=1)
 
 -----------------Example of run.sh---------------------
 
