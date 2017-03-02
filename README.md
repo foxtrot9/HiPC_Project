@@ -1,6 +1,6 @@
 HiPC Student Programmming Challenge Intel Track Phase 2 submission
 
-Team name: [daiict_cache_miss]
+Team name: [daiict]_cache_miss
 
 Team Members:
 
