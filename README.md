@@ -17,14 +17,26 @@ Input files:
 -----------------Example of run.sh---------------------
 
 [mit@ubuntu]$ bash run.sh
+
 Enter input file name:
+
 LargeDataSet_IntelTrack.csv
+
 Input file name is LargeDataSet_IntelTrack.csv .
+
 Sourcefile is hipc.c and outfile is hipc.o .
+
 Input is taken from LargeDataSet_IntelTrack.csv . Output is stored in output.csv .
+
 rm -f hipc.o
+
 gcc hipc.c -o hipc.o -fopenmp
+
 --- other user output (if any) ---
+
 Algorithm time = 2917281.000000 microsecs
+
 IO time = 818171.000000 microsecs
+
 End to end time = 3.771630 secs
+
