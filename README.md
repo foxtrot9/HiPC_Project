@@ -16,7 +16,7 @@ Input files(Download):
 
 [Medium (4.7 MB)](https://www.dropbox.com/s/0ruh2xr2wjkgxa9/%5Bdaiict%5D_cache_miss_medium_phase2.csv?dl=1)
 
-*NOTE: Input files must contain unique points.*
+**NOTE: Input files must contain unique points.**
 
 -----------------Example of run.sh---------------------
 
